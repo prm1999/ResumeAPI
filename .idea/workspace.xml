@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57f36509-01de-4ec3-97ee-4f6aaeb694c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Resume/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Resume/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resume/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Resume/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResumeApi/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ResumeApi/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResumeApi/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ResumeApi/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResumeApi/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ResumeApi/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
