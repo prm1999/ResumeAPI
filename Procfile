@@ -1,1 +1,2 @@
-web: gunicorn bootcamp.wsgi --log-file -
+web: gunicorn Resume.wsgi
+release: python manage.py migrate --no-input
